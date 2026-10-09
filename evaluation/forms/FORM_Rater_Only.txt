@@ -1,0 +1,68 @@
+
+================================================================
+        SET PROJECT — HUMAN EVALUATION FORM
+        (For Evaluators who rate only: E4, E5)
+================================================================
+Evaluator ID : ___________
+Date         : ___________
+Time taken   : ___________
+
+INSTRUCTIONS
+------------
+  - Read the SOURCE file for each document (first 400 words)
+  - Read the SUMMARY file for each document
+  - Rate the summary on 3 criteria using 1-5 scale
+
+You do NOT need to write anything — just give scores.
+
+RATING SCALE:
+  5 = Excellent
+  4 = Good
+  3 = Average
+  2 = Poor
+  1 = Very Poor
+
+CRITERIA DEFINITIONS:
+
+FLUENCY — Is the summary grammatically correct and natural?
+  5 = Perfectly fluent, reads like a human wrote it
+  4 = Mostly fluent, very minor issues
+  3 = Readable but some awkward sentences
+  2 = Hard to read, noticeable grammar problems
+  1 = Broken, very hard to understand
+
+COVERAGE — Does it capture the main points of the document?
+  5 = All key points present
+  4 = Most key points covered, minor gaps
+  3 = Some key points covered, some missing
+  2 = Few key points present
+  1 = Misses almost everything important
+
+ACCESSIBILITY — Can a non-expert citizen understand this?
+  5 = Anyone can understand easily
+  4 = Most people would understand
+  3 = Somewhat understandable with effort
+  2 = Still quite technical
+  1 = Requires expert legal knowledge
+
+----------------------------------------------------------------
+SCORES TABLE
+----------------------------------------------------------------
+Document          | Fluency (1-5) | Coverage (1-5) | Access (1-5)
+------------------|---------------|----------------|-------------
+1. NEP 2020       |               |                |
+2. CrPC           |               |                |
+3. CGST Act       |               |                |
+4. NRHM Framework |               |                |
+5. JK Act         |               |                |
+
+----------------------------------------------------------------
+COMMENTS (optional)
+----------------------------------------------------------------
+
+
+
+
+================================================================
+Thank you for your participation!
+================================================================

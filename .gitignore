@@ -1,0 +1,32 @@
+﻿# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Generated outputs and logs
+output/
+*.log
+run_log.txt
+
+# Dataset and model artifacts
+dataset/
+data/
+models/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

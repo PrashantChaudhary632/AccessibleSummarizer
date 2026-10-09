@@ -1,0 +1,141 @@
+
+================================================================
+        SET PROJECT — HUMAN EVALUATION FORM
+        (For Evaluators who write summaries: E1, E2, E3)
+================================================================
+Evaluator ID : ___________
+Date         : ___________
+Time taken   : ___________
+
+INSTRUCTIONS
+------------
+This evaluation has TWO parts:
+
+PART A: Write your own summary of each document
+PART B: Rate the system-generated summary
+
+You will be given TWO files for each document:
+  *_SOURCE.txt  — Read this first (original document excerpt)
+  *_SUMMARY.txt — Rate this (system generated summary)
+
+================================================================
+PART A — WRITE YOUR OWN SUMMARY
+================================================================
+Instructions:
+  - Read the SOURCE file for each document
+  - Write 150-200 words summarizing it in plain English
+  - Imagine you are explaining it to a friend
+  - Use your OWN words — do not copy from the document
+  - Focus on: What is this about? What are the main points?
+
+----------------------------------------------------------------
+Document 1: NEP 2020
+----------------------------------------------------------------
+Your summary (150-200 words):
+The National Education Policy (NEP) 2020 aims to transform India’s education system to make it more inclusive, flexible, and aligned with modern needs. It emphasizes universal access to quality education from early childhood to higher education, with a strong focus on foundational literacy and numeracy. The policy promotes a holistic and multidisciplinary approach, replacing rigid subject divisions and encouraging critical thinking, creativity, and experiential learning. It introduces a new 5+3+3+4 school structure and seeks to reduce dropout rates. In higher education, NEP envisions multidisciplinary universities, flexible degree options, and the integration of vocational education. It also proposes major reforms in teacher training, governance, and regulation through bodies like the Higher Education Commission of India (HECI). The policy highlights the use of technology in education, promotion of Indian languages, and increased public investment. Overall, NEP 2020 aims to build an equitable, accessible, and globally competitive education system by 2040.
+
+
+
+Word count: 168
+
+----------------------------------------------------------------
+Document 2: CrPC
+----------------------------------------------------------------
+Your summary (150-200 words):
+
+The Code of Criminal Procedure (CrPC), 1973 provides the procedural framework for the administration of criminal justice in India. It outlines the powers and responsibilities of courts, police officers, and other authorities in handling criminal cases. The Code specifies different types of courts and the powers they possess, including sentencing powers of judges and magistrates. It lays down detailed procedures for arrest, including when police can arrest without a warrant, rights of arrested persons such as being informed of grounds of arrest and right to bail, and safeguards like medical examination and production before a magistrate within 24 hours. It also includes provisions for public assistance to police, reporting of offences, and processes like summons and warrants to ensure the appearance of accused persons. Overall, the CrPC ensures a structured and fair process for investigation, trial, and punishment, while also protecting individual rights against misuse of power.
+
+
+Word count: 162
+
+----------------------------------------------------------------
+Document 3: CGST Act
+----------------------------------------------------------------
+Your summary (150-200 words):
+
+The Central Goods and Services Tax (CGST) Act, 2017 provides the legal framework for levying and collecting GST on intra-state supply of goods and services in India. It defines key terms such as taxable supply, non-taxable supply, and actionable claims, and establishes the scope and applicability of GST across the country. The Act outlines provisions for tax liability, registration of taxpayers, and procedures for filing returns and maintaining records. It also introduces mechanisms for input tax credit, allowing businesses to reduce tax burden by claiming credit for taxes already paid on inputs. The Act establishes authorities such as GST officers and the Goods and Services Tax Appellate Tribunal for dispute resolution. It includes provisions for audits, assessments, penalties, and offences to ensure compliance. Overall, the CGST Act aims to create a unified and efficient indirect tax system, reduce cascading taxes, and improve ease of doing business.
+
+
+
+Word count: 166
+
+----------------------------------------------------------------
+Document 4: NRHM Framework
+----------------------------------------------------------------
+Your summary (150-200 words):
+
+The National Rural Health Mission (NRHM) was launched to improve healthcare delivery in rural India, especially in states with weak health indicators and infrastructure. The framework focuses on strengthening public health systems by expanding access to essential services and improving quality of care. Key components include deploying Accredited Social Health Activists (ASHAs) in villages, strengthening Sub-Centres, Primary Health Centres (PHCs), and Community Health Centres (CHCs), and ensuring service guarantees under Indian Public Health Standards (IPHS). The mission emphasizes decentralised planning through Village Health Committees and District Health Action Plans, along with community participation to increase accountability. It also provides financial support through untied grants to local health institutions. The framework identifies issues such as low public spending and unregulated private healthcare, and aims to make healthcare more affordable and accessible for rural populations. Overall, NRHM seeks to achieve “Health for All” through systemic reforms and community engagement.
+
+
+
+Word count: 170
+
+----------------------------------------------------------------
+Document 5: JK Act
+----------------------------------------------------------------
+Your summary (150-200 words):
+
+The Jammu and Kashmir Reorganisation Act, 2019 reorganised the former state of Jammu and Kashmir into two Union Territories: Jammu and Kashmir (with a legislative assembly) and Ladakh (without a legislature). The Act lays down provisions for governance, including the role of the Lieutenant Governor, legislative powers, and functioning of the Legislative Assembly. It defines rules regarding membership, disqualification, voting procedures, and privileges of legislators. The Act also addresses legislative processes such as passing of bills, financial procedures, and the relationship between laws made by Parliament and the Union Territory legislature. It includes provisions for delimitation of constituencies, ensuring representation based on population data. Additionally, it covers administrative structures for Ladakh and provisions related to Scheduled Castes and Scheduled Tribes. Overall, the Act establishes a new administrative and political framework for the governance of these regions under the Union.
+
+
+
+Word count: 162
+
+================================================================
+PART B — RATE THE SYSTEM SUMMARY
+================================================================
+Instructions:
+  - Now read the SUMMARY file for each document
+  - Compare it with the SOURCE you already read
+  - Rate on each criterion from 1 to 5
+
+RATING SCALE:
+  5 = Excellent
+  4 = Good
+  3 = Average
+  2 = Poor
+  1 = Very Poor
+
+CRITERIA DEFINITIONS:
+
+FLUENCY — Is the summary grammatically correct and natural?
+  5 = Perfectly fluent, reads like a human wrote it
+  4 = Mostly fluent, very minor issues
+  3 = Readable but some awkward sentences
+  2 = Hard to read, noticeable grammar problems
+  1 = Broken, very hard to understand
+
+COVERAGE — Does it capture the main points of the document?
+  5 = All key points present
+  4 = Most key points covered, minor gaps
+  3 = Some key points covered, some missing
+  2 = Few key points present
+  1 = Misses almost everything important
+
+ACCESSIBILITY — Can a non-expert citizen understand this?
+  5 = Anyone can understand easily
+  4 = Most people would understand
+  3 = Somewhat understandable with effort
+  2 = Still quite technical
+  1 = Requires expert legal knowledge
+
+----------------------------------------------------------------
+SCORES TABLE
+----------------------------------------------------------------
+Document          | Fluency (1-5) | Coverage (1-5) | Access (1-5)
+------------------|---------------|----------------|-------------
+1. NEP 2020       |5              |4               |5
+2. CrPC           |4              |3               |3
+3. CGST Act       |3              |2               |3
+4. NRHM Framework |4              |4               |4
+5. JK Act         |4              |3               |4
+
+----------------------------------------------------------------
+COMMENTS (optional)
+----------------------------------------------------------------
+Any observations about the summaries: 
+The summary is understandable but misses the broader structural change (state bifurcation details) and focuses more on procedural provisions.
+
+================================================================
+Thank you for your participation!
+================================================================
